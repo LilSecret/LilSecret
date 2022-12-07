@@ -10,3 +10,8 @@ I'm currently learning
 3.Javascript
 4.React
 5.Node.js
+
+##### Socials
+
+Github ~ https://github.com/LilSecret
+LinkedIn ~ https://www.linkedin.com/in/charles-marchant-4269201a6/
