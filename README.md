@@ -14,11 +14,11 @@
 
 ## 🍀 Fun Facts
 
-- 📱 Android is cooler than Apple
-- 💻 Windows is my jam
-- 🏋️‍♂️ Love to Gym
-- 🎮 Most played game is League of Legends
-- 🏐 Volleyball is my favorite sport
+- First vehicle was a Dodge Charger 2012 🚗
+- Windows is my jam 💻
+- Love to Gym 🏋️
+- Most played game is League of Legends 🎮
+- Volleyball is my favorite sport 🏐
 
 ## 📫 Contact Me
 
