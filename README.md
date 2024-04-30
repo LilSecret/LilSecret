@@ -19,3 +19,7 @@
 - 🏋️‍♂️ Love to Gym
 - 🎮 Most played game is League of Legends
 - 🏐 Volleyball is my favorite sport
+
+## 📫 Contact Me
+
+Email: @chuckm248@gmail.com
