@@ -28,6 +28,9 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 [<img align="left" src="./images/linkedin-logo.svg.png" alt="linkedin logo" width="26px" style="padding-right:10px;" >](https://www.linkedin.com/in/charles-marchant-4269201a6/)
 [<img align="left" src="./images/medium-logo.svg" alt="medium logo" width="26px" style="padding-right:10px;" >](https://medium.com/@chuckm248)
 
+<br/>
+<br/>
+
 ## 📫 Contact Me
 
 Email: @chuckm248@gmail.com
