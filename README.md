@@ -16,11 +16,11 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 
 ## 🍀 Fun Facts
 
-- First vehicle was a Dodge Charger 2012 🚗
-- Windows is my jam 💻
-- Love to Gym 🏋️
-- Most played game is League of Legends 🎮
-- Volleyball is my favorite sport 🏐
+- 🚗 First vehicle was a Dodge Charger 2012
+- 💻 Windows is my jam
+- 🏋️ Love to Gym
+- 🎮 Most played game is League of Legends
+- 🏐 Volleyball is my favorite sport
 
 #### Connect with me:
 
