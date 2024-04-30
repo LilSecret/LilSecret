@@ -1,17 +1,13 @@
-##### Hello
+### Hey, I'm Charles 👋🏽
 
-My name is LilSecret. We love to code just because it is awesome. We also like video games cuz who doesn't.
+## 📦 Toolbox
 
-##### Currently Learning
+**Frontend Development:** `HTML` `CSS` `JavaScript`
 
-I'm currently learning
-1.HTML
-2.CSS
-3.Javascript
-4.React
-5.Node.js
+**Build Kit:** `Git` `GitHub` `VSCode`
 
-##### Socials
+**Testing:** `Postman`
 
-Github ~ https://github.com/LilSecret
-LinkedIn ~ https://www.linkedin.com/in/charles-marchant-4269201a6/
+**Others:** `TypeScript`
+
+**On RoadMap:** `React` `Sass` `Next.js`
