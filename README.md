@@ -6,13 +6,13 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 
 **Frontend Development:** `HTML` `CSS` `JavaScript`
 
+**Backend Development:**
+
 **Build Kit:** `Git` `GitHub` `VSCode`
 
 **Testing:** `Postman`
 
 **Others:** `TypeScript`
-
-**On RoadMap:** `React` `Sass` `Next.js`
 
 ## 🍀 Fun Facts
 
@@ -21,6 +21,12 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 - Love to Gym 🏋️
 - Most played game is League of Legends 🎮
 - Volleyball is my favorite sport 🏐
+
+#### Connect with me:
+
+[<img align="left" src="./images/instagram-logo.svg.webp" alt="instagram logo" width="26px" style="padding-right:10px;" >](https://www.instagram.com/lil.secret18)
+[<img align="left" src="./images/linkedin-logo.svg.png" alt="linkedin logo" width="26px" style="padding-right:10px;" >](https://www.linkedin.com/in/charles-marchant-4269201a6/)
+[<img align="left" src="./images/medium-logo.svg" alt="medium logo" width="26px" style="padding-right:10px;" >](https://medium.com/@chuckm248)
 
 ## 📫 Contact Me
 
