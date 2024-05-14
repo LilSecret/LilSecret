@@ -1,6 +1,6 @@
 ### Hey, I'm Charles aka LilSecret👋🏽
 
-I'm a 19-year-old student at Devslopes Academy based in Utah. I started my coding journey back in highschool of 2019 when I had a computer science class that was very enjoyable. I have a passion for learning, growing, and building things that bring better experience for everyone. Coding is an art and freaking awesome.
+I'm a 19-year-old student at Devslopes Academy based in Utah. I started my coding journey back in highschool of 2019. Software development is a fascinating and see myself doing it long-term. I have a passion for learning, growing, and building things that bring better experience for everyone. Thanks to google and everyone in the world for a wonderful place to grow.
 
 ## 📦 Toolbox
 
@@ -28,7 +28,6 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 [<img align="left" src="./images/medium.png" alt="medium logo" width="26px" style="padding-right:5px;" >](https://medium.com/@chuckm248)
 [<img align="left" src="./images/instagram-logo.svg.webp" alt="instagram logo" width="26px" style="padding-right:5px;" >](https://www.instagram.com/lil.secret18)
 
-<br/>
 <br/>
 
 ## 📫 Contact Me
