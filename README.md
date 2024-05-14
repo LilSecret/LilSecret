@@ -8,7 +8,7 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 
 **Backend Development:**
 
-**Kit:** `Git` `VSCode`
+**Kit:** `Git` `VSCode` `Figma`
 
 **Testing:** `Postman`
 
