@@ -4,7 +4,7 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `JavaScript`
+**Frontend Development:** `HTML` `CSS` `JavaScript` `React`
 
 **Backend Development:**
 
