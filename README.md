@@ -4,7 +4,7 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 
 ## 📦 Toolbox
 
-**Frontend Development:** `HTML` `CSS` `JavaScript` `React`
+**Frontend Development:** `React` `Sass` `TypeScript`
 
 **Backend Development:**
 
@@ -12,7 +12,7 @@ I'm a 19-year-old student at Devslopes Academy based in Utah. I started my codin
 
 **Testing:** `Postman`
 
-**Others:** `TypeScript`
+**Others:** `Redux`
 
 ## 🍀 Fun Facts
 
