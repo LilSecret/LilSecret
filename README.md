@@ -32,4 +32,5 @@ I am a 20-year-old student at Devslopes Academy, located in Utah. My coding jour
 
 ## 📫 Contact Me
 
-Email: @chuckm248@gmail.com
+- Message me on LinkedIn
+- Send an email to chuckm248@gmail.com
